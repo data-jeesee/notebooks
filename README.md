@@ -5,6 +5,7 @@ The projects are ordered by descending complexity.
 
 - [Italy Crime Index web scraped in Python](italy_crime_index.ipynb) and visualized with Matplotlib.
 - [Analyzing NYC High School Data](Analyzing_NYC_High_School_Data.ipynb) to investigate correlations between SAT scores and demographics.
+- [Analyzing CIA Factbook Data Using SQL](Analyzing_CIA_Factbook_Data_Using_SQL.ipynb) to explore statistics about all of the countries on Earth.
 - [Star Wars Survey](Star_Wars_Survey.ipynb) to answer some questions about *Star Wars* fans.
 - [Clean And Analyze Employee Exit Surveys](Clean_And_Analyze_Employee_Exit_Surveys.ipynb) from the *DETE* and *TAFE* body of the Queensland government in Australia.
 - [Exploring eBay Car Sales Data](Exploring_eBay_Car_Sales_Data.ipynb) from *eBay Kleinanzeigen*, a classifieds section of the German eBay website.
