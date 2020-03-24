@@ -4,6 +4,7 @@ A collection of Data Science projects written in Python notebooks.
 The projects are ordered by descending complexity.
 
 - [Italy Crime Index web scraped in Python](italy_crime_index.ipynb) and visualized with Matplotlib.
+- [Popular Data Science Questions](Popular_Data_Science_Questions.ipynb) from *Stack Exchange*.
 - [Answering Business Questions using SQL](Answering_Business_Questions_using_SQL.ipynb) from the *Chinook* database.
 - [Analyzing NYC High School Data](Analyzing_NYC_High_School_Data.ipynb) to investigate correlations between SAT scores and demographics.
 - [Analyzing CIA Factbook Data Using SQL](Analyzing_CIA_Factbook_Data_Using_SQL.ipynb) to explore statistics about all of the countries on Earth.
