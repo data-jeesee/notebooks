@@ -8,6 +8,7 @@ The projects are ordered by descending complexity.
 - [Finding the Best Markets to Advertise In](Finding_the_Best_Markets_to_Advertise_In.ipynb) for an e-learning company that offers courses on programming.
 - [Answering Business Questions using SQL](Answering_Business_Questions_using_SQL.ipynb) from the *Chinook* database.
 - [Investigating Fandango Movie Ratings](Investigating_Fandango_Movie_Ratings.ipynb) to determine any change after Hickey's analysis.
+- [Mobile App for Lottery Addiction](Mobile_App_for_Lottery_Addiction.ipynb) to help lottery addicts better estimate their chances of winning.
 - [Analyzing NYC High School Data](Analyzing_NYC_High_School_Data.ipynb) to investigate correlations between SAT scores and demographics.
 - [Analyzing CIA Factbook Data Using SQL](Analyzing_CIA_Factbook_Data_Using_SQL.ipynb) to explore statistics about all of the countries on Earth.
 - [Star Wars Survey](Star_Wars_Survey.ipynb) to answer some questions about *Star Wars* fans.
