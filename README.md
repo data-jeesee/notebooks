@@ -4,6 +4,7 @@ A collection of Data Science projects written in Python notebooks.
 The projects are ordered by descending complexity.
 
 - [Italy Crime Index web scraped in Python](italy_crime_index.ipynb) and visualized with Matplotlib.
+- [Building a Spam Filter with Naive Bayes](Building_a_Spam_Filter_with_Naive_Bayes.ipynb) to classify SMS messages.
 - [Popular Data Science Questions](Popular_Data_Science_Questions.ipynb) from *Stack Exchange*.
 - [Finding the Best Markets to Advertise In](Finding_the_Best_Markets_to_Advertise_In.ipynb) for an e-learning company that offers courses on programming.
 - [Answering Business Questions using SQL](Answering_Business_Questions_using_SQL.ipynb) from the *Chinook* database.
