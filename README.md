@@ -7,6 +7,7 @@ The projects are ordered by descending complexity.
 - [Building a Spam Filter with Naive Bayes](Building_a_Spam_Filter_with_Naive_Bayes.ipynb) to classify SMS messages.
 - [Winning Jeopardy](Winning_Jeopardy.ipynb) a popular TV show in the US where participants answer questions to win money.
 - [Popular Data Science Questions](Popular_Data_Science_Questions.ipynb) from *Stack Exchange*.
+- [Predicting Car Prices](Predicting_Car_Prices.ipynb) using numerical data that represents technical aspects of the vehicle.
 - [Finding the Best Markets to Advertise In](Finding_the_Best_Markets_to_Advertise_In.ipynb) for an e-learning company that offers courses on programming.
 - [Answering Business Questions using SQL](Answering_Business_Questions_using_SQL.ipynb) from the *Chinook* database.
 - [Investigating Fandango Movie Ratings](Investigating_Fandango_Movie_Ratings.ipynb) to determine any change after Hickey's analysis.
