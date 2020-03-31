@@ -5,6 +5,7 @@ The projects are ordered by descending complexity.
 
 - [Italy Crime Index web scraped in Python](italy_crime_index.ipynb) and visualized with Matplotlib.
 - [Building a Spam Filter with Naive Bayes](Building_a_Spam_Filter_with_Naive_Bayes.ipynb) to classify SMS messages.
+- [Predicting House Sale Prices](Predicting_House_Sale_Prices.ipynb) through a linear regression model.
 - [Winning Jeopardy](Winning_Jeopardy.ipynb) a popular TV show in the US where participants answer questions to win money.
 - [Popular Data Science Questions](Popular_Data_Science_Questions.ipynb) from *Stack Exchange*.
 - [Predicting Car Prices](Predicting_Car_Prices.ipynb) using numerical data that represents technical aspects of the vehicle.
