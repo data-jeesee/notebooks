@@ -4,8 +4,8 @@ A collection of Data Science projects written in Python notebooks.
 The projects are ordered by descending complexity.
 
 - [Italy Crime Index web scraped in Python](italy_crime_index.ipynb) and visualized with Matplotlib.
-- [Building A Handwritten Digits Classifier](Building_A_Handwritten_Digits_Classifier.ipynb) focusing on Deep Neural Network.
 - [Building a Spam Filter with Naive Bayes](Building_a_Spam_Filter_with_Naive_Bayes.ipynb) to classify SMS messages.
+- [Building A Handwritten Digits Classifier](Building_A_Handwritten_Digits_Classifier.ipynb) focusing on Deep Neural Network.
 - [Predicting House Sale Prices](Predicting_House_Sale_Prices.ipynb) through a Linear Regression model.
 - [Predicting Bike Rentals](Predicting_Bike_Rentals.ipynb) with different machine learning models like Linear Regression and Random Forest.
 - [Winning Jeopardy](Winning_Jeopardy.ipynb) a popular TV show in the US where participants answer questions to win money.
